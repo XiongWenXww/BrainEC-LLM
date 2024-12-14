@@ -1,0 +1,1 @@
+This simulated fMRI time series dataset is generated through dynamic causal models, with dimensions B × T × N,  where B is the batch size, T is the data points, and N is the number of brain regions.

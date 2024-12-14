@@ -1,0 +1,10 @@
+torch==2.2.2
+numpy==1.26.4
+scikit_learn==1.5.1
+scipy==1.13.1
+tqdm==4.65.0
+peft==0.11.1
+transformers==4.41.2
+bitsandbytes==0.43.1
+cdt==0.6.0
+matplotlib

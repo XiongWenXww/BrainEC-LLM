@@ -1,0 +1,1 @@
+This is a simulated dataset generated through the nonlinear causal relationships with quadratic functions, with dimensions 1 × T × N, where T is the data points of the time series, and N is the number of nodes.

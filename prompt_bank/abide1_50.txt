@@ -1,0 +1,1 @@
+This is the ABIDE I dataset, which contains fMRI time series data from people with autism and healthy individuals.
