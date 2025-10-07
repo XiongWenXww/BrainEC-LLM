@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b> BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing Large Language Models (NeurIPS 2025) </b></h2>
+  <h2><b> (NeurIPS 2025) BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing Large Language Models </b></h2>
 </div>
 
 ---
